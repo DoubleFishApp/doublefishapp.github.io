@@ -24,7 +24,7 @@ DoubleFishApp Organization may update this Privacy Policy from time to time. Thu
 
 ## Developer and Organization Info
 
-This app is developed by Chang Gao, as an admin of an Apple Developer Program membership held by Yudi Zhang. Both Chang Gao and Yudi Zhang are under the the DoubleFishApp Organization.
+This app is developed by Chang Gao, as an admin of an Apple Developer Program membership held by Yudi Zhang. Both Chang Gao and Yudi Zhang are under the the DoubleFishApp Organization. DoubleFishApp Organization contains three members as for Mar 4 2024: Yudi Zhang, Chang Gao, and Yuting Wang.
 
 ## Contact Us
 
