@@ -1,4 +1,4 @@
-# Wooden Fish 3d APP Privacy Policy
+# "Wooden Fish 3D" App Privacy Policy
 
 DoubleFishApp Organization builds Wooden Fish 3D app ("the app") as a free app. This app is provided by DoubleFishApp at no cost and is intended for use as is.
 
